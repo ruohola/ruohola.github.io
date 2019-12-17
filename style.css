@@ -16,11 +16,11 @@ body {
   max-width: 60rem;
 }
 
-a {
+a.email {
   color: #b58900;
 }
 
-a:visited {
+a {
   color: #cb4b16;
 }
 
